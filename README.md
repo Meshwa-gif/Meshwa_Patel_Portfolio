@@ -241,8 +241,8 @@ footer p{font-size:12px;color:var(--text-muted-navy)}
           </div>
           <div class="proj-tags"><span class="proj-tag">Power BI</span><span class="proj-tag">DAX</span><span class="proj-tag">Excel</span><span class="proj-tag">KPI Design</span></div>
           <div class="proj-footer">
-            <a href="https://github.com/Meshwa-gif/Superstore-PowerBI-Dashboard" target="_blank" class="proj-link proj-link-primary">View on GitHub →</a>
-            <a href="https://meshwa-gif.github.io/" target="_blank" class="proj-link proj-link-secondary">Portfolio ↗</a>
+            <a href="https://github.com/Meshwa-gif/Superstore-PowerBI-Dashboard" target="_blank" class="proj-link proj-link-primary" style="flex:1">View on GitHub →</a>
+            
           </div>
         </div>
       </div>
@@ -263,8 +263,8 @@ footer p{font-size:12px;color:var(--text-muted-navy)}
           </div>
           <div class="proj-tags"><span class="proj-tag">Python</span><span class="proj-tag">Pandas</span><span class="proj-tag">Matplotlib</span><span class="proj-tag">Seaborn</span></div>
           <div class="proj-footer">
-            <a href="https://github.com/Meshwa-gif/AAPL-Stock-Analysis" target="_blank" class="proj-link proj-link-primary">View on GitHub →</a>
-            <a href="https://meshwa-gif.github.io/" target="_blank" class="proj-link proj-link-secondary">Portfolio ↗</a>
+            <a href="https://github.com/Meshwa-gif/AAPL-Stock-Analysis" target="_blank" class="proj-link proj-link-primary" style="flex:1">View on GitHub →</a>
+            
           </div>
         </div>
       </div>
@@ -285,8 +285,8 @@ footer p{font-size:12px;color:var(--text-muted-navy)}
           </div>
           <div class="proj-tags"><span class="proj-tag">SQL</span><span class="proj-tag">scikit-learn</span><span class="proj-tag">Python</span><span class="proj-tag">Random Forest</span></div>
           <div class="proj-footer">
-            <a href="https://github.com/Meshwa-gif/Customer-Churn-Prediction" target="_blank" class="proj-link proj-link-primary">View on GitHub →</a>
-            <a href="https://meshwa-gif.github.io/" target="_blank" class="proj-link proj-link-secondary">Portfolio ↗</a>
+            <a href="https://github.com/Meshwa-gif/Customer-Churn-Prediction" target="_blank" class="proj-link proj-link-primary" style="flex:1">View on GitHub →</a>
+            
           </div>
         </div>
       </div>
@@ -307,8 +307,8 @@ footer p{font-size:12px;color:var(--text-muted-navy)}
           </div>
           <div class="proj-tags"><span class="proj-tag">Tableau</span><span class="proj-tag">HR Analytics</span><span class="proj-tag">Dashboard</span><span class="proj-tag">Data Viz</span></div>
           <div class="proj-footer">
-            <a href="https://github.com/Meshwa-gif/IBM-HR-Analytics-Tableau" target="_blank" class="proj-link proj-link-primary">View on GitHub →</a>
-            <a href="https://meshwa-gif.github.io/" target="_blank" class="proj-link proj-link-secondary">Portfolio ↗</a>
+            <a href="https://github.com/Meshwa-gif/IBM-HR-Analytics-Tableau" target="_blank" class="proj-link proj-link-primary" style="flex:1">View on GitHub →</a>
+            
           </div>
         </div>
       </div>
@@ -329,8 +329,8 @@ footer p{font-size:12px;color:var(--text-muted-navy)}
           </div>
           <div class="proj-tags"><span class="proj-tag">SQL</span><span class="proj-tag">Python</span><span class="proj-tag">Matplotlib</span><span class="proj-tag">Excel Export</span></div>
           <div class="proj-footer">
-            <a href="https://github.com/Meshwa-gif/Ecommerce-Olist-SQL-Analysis" target="_blank" class="proj-link proj-link-primary">View on GitHub →</a>
-            <a href="https://meshwa-gif.github.io/" target="_blank" class="proj-link proj-link-secondary">Portfolio ↗</a>
+            <a href="https://github.com/Meshwa-gif/Ecommerce-Olist-SQL-Analysis" target="_blank" class="proj-link proj-link-primary" style="flex:1">View on GitHub →</a>
+            
           </div>
         </div>
       </div>
